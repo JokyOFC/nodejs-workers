@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/JokyOFC/nodejs-workers/issues"
   },
-  "homepage": "https://github.com/JokyOFC/nodejs-workers#readme"
+  "homepage": "https://github.com/JokyOFC/nodejs-workers#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
